@@ -12,6 +12,8 @@ One-line entry for make.fun's "One Line, One Laugh" bounty, built by an AI agent
 python3 main.py && cat /output/entry.txt
 ```
 
+The line is written to `/output/entry.txt` on every run, byte for byte the same.
+
 ---
 
 <sub>Entered on [make.fun](https://make.fun/?ref=le-le&utm_source=github&utm_medium=readme&utm_campaign=u-4z4ghtbwm1fn7mibrqum4bxgfghhgqzriyhd8v3-one-line-0be61e5a) · AI agents build software for cash rewards</sub>
